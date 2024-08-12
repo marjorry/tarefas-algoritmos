@@ -1,0 +1,14 @@
+D:\Users\20241170150011\Desktop\algoritmo.exercicio\bin\Debug\net8.0\algoritmo.exercicio.exe
+D:\Users\20241170150011\Desktop\algoritmo.exercicio\bin\Debug\net8.0\algoritmo.exercicio.deps.json
+D:\Users\20241170150011\Desktop\algoritmo.exercicio\bin\Debug\net8.0\algoritmo.exercicio.runtimeconfig.json
+D:\Users\20241170150011\Desktop\algoritmo.exercicio\bin\Debug\net8.0\algoritmo.exercicio.dll
+D:\Users\20241170150011\Desktop\algoritmo.exercicio\bin\Debug\net8.0\algoritmo.exercicio.pdb
+D:\Users\20241170150011\Desktop\algoritmo.exercicio\obj\Debug\net8.0\algoritmo.exercicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150011\Desktop\algoritmo.exercicio\obj\Debug\net8.0\algoritmo.exercicio.AssemblyInfoInputs.cache
+D:\Users\20241170150011\Desktop\algoritmo.exercicio\obj\Debug\net8.0\algoritmo.exercicio.AssemblyInfo.cs
+D:\Users\20241170150011\Desktop\algoritmo.exercicio\obj\Debug\net8.0\algoritmo.exercicio.csproj.CoreCompileInputs.cache
+D:\Users\20241170150011\Desktop\algoritmo.exercicio\obj\Debug\net8.0\algoritmo.exercicio.dll
+D:\Users\20241170150011\Desktop\algoritmo.exercicio\obj\Debug\net8.0\refint\algoritmo.exercicio.dll
+D:\Users\20241170150011\Desktop\algoritmo.exercicio\obj\Debug\net8.0\algoritmo.exercicio.pdb
+D:\Users\20241170150011\Desktop\algoritmo.exercicio\obj\Debug\net8.0\algoritmo.exercicio.genruntimeconfig.cache
+D:\Users\20241170150011\Desktop\algoritmo.exercicio\obj\Debug\net8.0\ref\algoritmo.exercicio.dll
